@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about Data analytics,MBA studies,Study abroad and mindset.
 - 📫 How to reach me: ...
 - ⚡ Fun fact: Everyday i wake up 5am.
-- ## About me 💬 :
+ ## About me 💬 :
 Iam an aspiring business data analysts.Backstory Bachelors in Finance and an MBA Graduate based in Germany.
 
                            -##  Hard Skills
