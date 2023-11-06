@@ -17,8 +17,8 @@ Iam an aspiring business data analysts.Backstory Bachelors in Finance and an MBA
 
 ## Hard Skills
 Excel
-![image](https://github.com/Maryandadle/Maryandadle/assets/120597763/aba9626d-30d9-4527-83a3-536b8523547a)
-SQL
+
+![image](https://github.com/Maryandadle/Maryandadle/assets/120597763/117f606d-e339-4088-8cc9-d9f2c9c72914) SQL
 Google sheet
 Data studio
 Tableau
