@@ -16,15 +16,10 @@ Here are some ideas to get you started:
 Iam an aspiring business data analysts.Backstory Bachelors in Finance and an MBA Graduate based in Germany.
 
 ## Hard Skills
-Excel
 
-![image](https://github.com/Maryandadle/Maryandadle/assets/120597763/117f606d-e339-4088-8cc9-d9f2c9c72914) SQL
-Google sheet
-Data studio
-Tableau
-Statistic skills eg Logistic regression and A/B Testing
-ERP software such as SAP
-CRM tools such as linkedin sales Navigator and Salesforce.
+![image](https://github.com/Maryandadle/Maryandadle/assets/120597763/117f606d-e339-4088-8cc9-d9f2c9c72914)  SQL
+
+
 
 
 
