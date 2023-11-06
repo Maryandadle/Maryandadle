@@ -14,4 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 ### About me 
---> ## About me 
+-->  About me 
+
+Iam an aspiring business data analysts.On top of my data analysis skills i just graduated for my MBA in Germany.
+
+HARD SKILLS
+
+Excel
+SQL
+Google sheet
+Data studio
+Tableau
+Statistic skills eg Logistic regression and A/B Testing
+
+
+
+
