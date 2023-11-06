@@ -1,6 +1,6 @@
 ### Hallo there!
 
-Here are some ideas ## About me 💬 ::
+Here are some ideas about me 💬 ::
 - Iam an aspiring business data analysts.Backstory Bachelors in Finance and an MBA Graduate based in Germany.
 - 🔭 I’m currently working on Tableau Dashboards.
 - 🌱 I’m currently learning Communicating business and data results.
