@@ -27,9 +27,6 @@ Here are some ideas ## About me 💬 ::
 
 ![image](https://github.com/Maryandadle/Maryandadle/assets/120597763/55b1b494-651a-4723-8443-42a934ee3034)
 
-![image](https://github.com/Maryandadle/Maryandadle/assets/120597763/78fc8ca9-732a-4433-b32b-004a131124dc)
-
-![image](https://github.com/Maryandadle/Maryandadle/assets/120597763/623e425c-1dad-45f1-a638-a7bec92635f4)
 
 
 
