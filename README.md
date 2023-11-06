@@ -4,11 +4,11 @@
 Here are some ideas ## About me 💬 ::
 - Iam an aspiring business data analysts.Backstory Bachelors in Finance and an MBA Graduate based in Germany.
 - 🔭 I’m currently working on Tableau Dashboards.
-- 🌱 I’m currently learning Communicating results.
+- 🌱 I’m currently learning Communicating business and data results.
 - 👯 I’m looking to collaborate on Business analytics projects, if you need help let me know.
 - 🤔 I’m looking for help with Finding data analytics role in Finance industry.
 - 💬 Ask me about Data analytics,MBA studies,Study abroad and mindset.
-- 📫 How to reach me: ...
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/maryandadle/)
 - ⚡ Fun fact: Everyday i wake up 5am.
  
 
