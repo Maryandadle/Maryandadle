@@ -18,7 +18,8 @@ Here are some ideas ## About me 💬 ::
 ![image](https://github.com/Maryandadle/Maryandadle/assets/120597763/e51855f3-c045-403d-a22d-f7fda391c23f)
 
 
-![image](https://github.com/Maryandadle/Maryandadle/assets/120597763/e019bd65-d6e0-4490-b68a-f6a0f8e146af)
+![image](https://github.com/Maryandadle/Maryandadle/assets/120597763/90d04a3a-6f08-4886-bdc7-a2ecf5173ff0)
+
 
 ![image](https://github.com/Maryandadle/Maryandadle/assets/120597763/b8778dcb-e890-40f7-a2ea-349036de619d)
 
