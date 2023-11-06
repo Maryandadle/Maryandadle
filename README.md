@@ -1,5 +1,4 @@
-### Hi there 
-
+### Hallo there!
 
 Here are some ideas ## About me 💬 ::
 - Iam an aspiring business data analysts.Backstory Bachelors in Finance and an MBA Graduate based in Germany.
@@ -13,7 +12,8 @@ Here are some ideas ## About me 💬 ::
  
 
 
-                           -##  Hard Skills
+                           
+  ##  Hard Skills
 
 ![image](https://github.com/Maryandadle/Maryandadle/assets/120597763/117f606d-e339-4088-8cc9-d9f2c9c72914)  
 
