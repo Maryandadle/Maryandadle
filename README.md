@@ -1,10 +1,8 @@
-### Hi there 👋
+### Hi there 
 
 
-**Maryandadle/Maryandadle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+Here are some ideas ## About me 💬 ::
+- Iam an aspiring business data analysts.Backstory Bachelors in Finance and an MBA Graduate based in Germany.
 - 🔭 I’m currently working on Tableau Dashboards.
 - 🌱 I’m currently learning Communicating results.
 - 👯 I’m looking to collaborate on Business analytics projects, if you need help let me know.
@@ -12,8 +10,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about Data analytics,MBA studies,Study abroad and mindset.
 - 📫 How to reach me: ...
 - ⚡ Fun fact: Everyday i wake up 5am.
- ## About me 💬 :
-Iam an aspiring business data analysts.Backstory Bachelors in Finance and an MBA Graduate based in Germany.
+ 
+
 
                            -##  Hard Skills
 
