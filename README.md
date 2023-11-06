@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ## About me 💬 :
 Iam an aspiring business data analysts.Backstory Bachelors in Finance and an MBA Graduate based in Germany.
 
-## Hard Skills
+                           -##  Hard Skills
 
 ![image](https://github.com/Maryandadle/Maryandadle/assets/120597763/117f606d-e339-4088-8cc9-d9f2c9c72914)  
 ![image](https://github.com/Maryandadle/Maryandadle/assets/120597763/e019bd65-d6e0-4490-b68a-f6a0f8e146af)
