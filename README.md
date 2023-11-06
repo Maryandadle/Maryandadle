@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **Maryandadle/Maryandadle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,12 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 ### About me 
--->  About ME 💬 :
+  About ME 💬 :
 
 Iam an aspiring business data analysts.On top of my data analysis skills i just graduated for my MBA in Germany.
 
 HARD SKILLS
-
 Excel
 SQL
 Google sheet
