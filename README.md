@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 ### About me 
--->  About me 
+-->  About ME 💬 :
 
 Iam an aspiring business data analysts.On top of my data analysis skills i just graduated for my MBA in Germany.
 
