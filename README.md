@@ -5,7 +5,7 @@ Here are some ideas about me 💬 ::
 - 🔭 I’m currently working on Tableau Dashboards.
 - 🌱 I’m currently learning Communicating business and data results.
 - 👯 I’m looking to collaborate on Business analytics projects, if you need help let me know.
-- 🤔 I’m looking for help with Finding data analytics role in Finance industry.
+- 🤔 I’m looking forward to Finding interesting  data analytics role in Finance industry.Iam also open to hospitations.
 - 💬 Ask me about Data analytics,MBA studies,Study abroad and mindset.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/maryandadle/)
 - ⚡ Fun fact: Everyday i wake up 5am.
