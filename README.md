@@ -1,18 +1,20 @@
 ### Hallo there!
 
-Here are some ideas about me 💬 ::
+I'd like to share a few things about myself.
 
-- I am an aspiring business data analysts.Backstory Bachelors in Finance and an MBA Graduate based in Germany.
+- I want to become a business data analyst..
+  
+- I have a Bachelor's degree in Finance and a Master's in Business Administration. Currently, I am living in Germany..
   
 - 🔭 I am currently working on Tableau Dashboards.
   
-- 🌱 I am currently learning Communicating business and data results.
+- 🌱 I am currently learning Communicating business and data results in German language.
   
 - 👯 I am looking to collaborate on Business analytics projects, if you need help just let me know.
   
-- 🤔 I am looking forward to Finding interesting  data analytics role in Finance industry.Iam also open to hospitations.
+- 🤔 I am looking forward to Finding interesting  data analytics role in Finance industry. Iam also open to hospitations.
   
-- 💬 Ask me about Data analytics,MBA studies,Study abroad and growth mindset.
+- 💬 Ask me about Data analytics, MBA studies, Studying  abroad and growth mindset.
   
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/maryandadle/)
   
