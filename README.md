@@ -1,10 +1,10 @@
 ### Hallo there!
 
-I'd like to share a few things about myself.
+I would  like to share a few things about myself.
 
 - I want to become a business data analyst..
   
-- I have a Bachelor's degree in Finance and a Master's in Business Administration. Currently, I am living in Germany..
+- I have a Bachelor's degree in Finance and a Master's in Business Administration. Currently, I am living in Frankfurt Germany.
   
 - 🔭 I am currently working on Tableau Dashboards.
   
