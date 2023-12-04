@@ -2,7 +2,7 @@
 
 I would  like to share a few things about myself.
 
-- Iam business data analyst.
+- Iam a data analyst.
   
 - I have a Bachelor's degree in Finance and a Master's in Business Administration. Currently, I am living in Frankfurt Germany.
   
